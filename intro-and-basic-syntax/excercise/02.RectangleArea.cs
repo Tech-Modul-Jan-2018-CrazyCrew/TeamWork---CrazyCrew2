@@ -8,8 +8,10 @@ namespace _02.RectangleArea
         {
             double width = double.Parse(Console.ReadLine());
             double height = double.Parse(Console.ReadLine());
+            //Here we calculate area of rectangle
             double area = width * height;
 
+            //Print area
             Console.WriteLine("{0:f2}", area);
         }
     }
