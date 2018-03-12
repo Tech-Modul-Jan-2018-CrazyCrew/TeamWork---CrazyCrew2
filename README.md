@@ -63,7 +63,7 @@ examples below for the appropriate formatting.
   0321 0123 0022
   
 -----------------------------------------------------
-### Problem 1.              
+### Problem 3.              
 Miles to Kilometers
 
 Write a program, which **converts****miles** to **kilometers**. **Format** the output
