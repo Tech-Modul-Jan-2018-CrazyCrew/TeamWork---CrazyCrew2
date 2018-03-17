@@ -12,12 +12,14 @@ namespace p01
     {
         static void Main(string[] args)
         {
+			// Read four numbers from the console.
             int first = int.Parse(Console.ReadLine());
             int secound = int.Parse(Console.ReadLine());
             int third= int.Parse(Console.ReadLine());
             int fourth = int.Parse(Console.ReadLine());
-
-            Console.WriteLine($"{first:D4} {secound:D4} {third:D4} {fourth:d4}");
+			
+			// Print the numbers. 
+            Console.WriteLine($"{first:D4} {second:D4} {third:D4} {fourth:d4}");
         }
     }
 }
