@@ -1,4 +1,4 @@
-﻿//CONFIRMED from petko-dimitrov
+﻿//CONFIRMED from tania92lp
 using System;
 
 namespace BeverageLabels
