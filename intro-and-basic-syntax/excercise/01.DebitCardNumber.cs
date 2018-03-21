@@ -12,10 +12,13 @@ namespace p01
     {
         static void Main(string[] args)
         {
-			// Read four numbers from the console.
+			// Read first number from the console.
             int first = int.Parse(Console.ReadLine());
+			// Read second number from the console.
             int secound = int.Parse(Console.ReadLine());
+			// Read third number from the console.
             int third= int.Parse(Console.ReadLine());
+			// Read fourth number from the console.
             int fourth = int.Parse(Console.ReadLine());
 			
 			// Print the numbers. 
